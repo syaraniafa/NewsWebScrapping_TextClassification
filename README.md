@@ -11,22 +11,22 @@ This project focuses on solving a multiclass text classification problem in whic
 In this project, web scraping is used to collect text data from news websites. The content of various articles is scraped and labeled based on predefined categories for classification purposes. Python libraries like BeautifulSoup and requests are used for this task.
 2. **Text Preprocessing**
 After scraping the news articles, the following preprocessing steps are applied to clean and prepare the text data:
-- Tokenization
-- Stopword removal
-- Text normalization (lowercasing, punctuation removal, etc.)
-- Vectorization using techniques like TF-IDF
+  - Tokenization
+  - Stopword removal
+  - Text normalization (lowercasing, punctuation removal, etc.)
+  - Vectorization using techniques like TF-IDF
 3. **Model Selection**
 Various classification algorithms are considered, such as:
-- Naive Bayes
-- Support Vector Machine (SVM)
-- Random Forest These models are trained on the processed text data to predict the correct news category.
+  - Naive Bayes
+  - Support Vector Machine (SVM)
+  - Random Forest These models are trained on the processed text data to predict the correct news category.
 4. **Model Training**
 The data is divided into training and testing sets. The model is then trained using the training data, applying supervised learning techniques.
 5. **Model Evaluation**
 After training, the model is evaluated using standard metrics, such as:
-- Accuracy
-- Precision, Recall, and F1-Score for each category
-- Confusion Matrix for detailed class-wise performance
+  - Accuracy
+  - Precision, Recall, and F1-Score for each category
+  - Confusion Matrix for detailed class-wise performance
 6. **Optimization and Tuning**
 To enhance performance, hyperparameter tuning methods, such as grid search, are implemented for the chosen model.
 
