@@ -33,5 +33,5 @@ To enhance performance, hyperparameter tuning methods, such as grid search, are 
 ## Results
 The results section showcases the model's performance based on the evaluation metrics discussed earlier. The best-performing model will be highlighted, and an analysis of its predictions on the test data will be presented.
 
-## Conclution
+## Conclusion
 This project demonstrates how to handle a multiclass text classification task in a research setting with no initial dataset. It walks through the process of generating data, preprocessing, model building, and evaluating the classification results.
