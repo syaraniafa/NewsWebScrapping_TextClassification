@@ -1,6 +1,6 @@
 # Multiclass Text Classification - Text Mining Project 
 
-## Case Study - Midterm Examination ##
+## Case Study
 As a Data Scientist at a research institution, the task is to build a multiclass text classification model. However, in this case study, there is no pre-existing dataset available. This project demonstrates the steps to construct such a model using various text preprocessing techniques, model selection, and evaluation approaches.
 
 ## Project Overview
